@@ -35,5 +35,5 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon=['CSVLogo.ico'],
+    icon=['C:\\Users\\hp\\Desktop\\第六代Ms Zou呼叫器\\通配\\CSVLogo.ico'],
 )
