@@ -76,4 +76,6 @@ Performing Streamed Install
 | 模块化应用        | ×    | √    |
 
 ---
-Powered By PCDC
+__Powered By PCDC__
+
+![Uploading Logo.jpg…](ZouLogo)
