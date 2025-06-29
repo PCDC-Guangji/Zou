@@ -2,10 +2,10 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "ZouW"
-#define MyAppVersion "1.0.0.2506B1"
+#define MyAppVersion "1.0.0.2506B2"
 #define MyAppPublisher "PCDC-Zou"
 #define MyAppURL "https://pcdc-guangji.github.io/ZouURL"
-#define MyAppExeName "ZouW1.0.0.2506B1.exe"
+#define MyAppExeName "ZouW.exe"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application. Do not use the same AppId value in installers for other applications.
